@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ZadatakBrodKontejner.iml" filepath="$PROJECT_DIR$/.idea/modules/ZadatakBrodKontejner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ZadatakBrodKontejner_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ZadatakBrodKontejner_main.iml" group="ZadatakBrodKontejner" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ZadatakBrodKontejner_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ZadatakBrodKontejner_test.iml" group="ZadatakBrodKontejner" />
+    </modules>
+  </component>
+</project>
